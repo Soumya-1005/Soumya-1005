@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Soumya Agrahari
 
-<!--
-**Soumya-1005/Soumya-1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 Aspiring Software Developer  
+🚀 Passionate about coding, problem solving, and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+- 💼 LinkedIn: [Soumya Agrahari](https://www.linkedin.com/in/soumya-agrahari-a67bb02bb)
+- 📧 Email: soumyaagrahari09@gmail.com
+- 🐙 GitHub: [Soumya-1005](https://github.com/Soumya-1005)
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** C, C++, Java, Python
+- **Web:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Core Subjects:** DSA, DBMS, OS, CN
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya-1005&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-1005&layout=compact&theme=tokyonight)
+
+---
+
+## 🧩 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Baloo&ext=heatmap)
+
+---
+
+## 🚀 Currently Learning
+- Data Structures & Algorithms
+- Backend Development
+- System Design Basics
+
+---
+
+## ✨ Quote
+> "Consistency beats talent when talent doesn’t work consistently."
+
+---
+
+⭐ **If you like my profile, consider starring my repositories!**
